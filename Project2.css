@@ -1,0 +1,70 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.menuList{
+    list-style: none; 
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin: 10px 10px 10px 0px;
+    width: 100vw;
+    height: 100px;
+    justify-content:space-around;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 13px;
+}
+a{
+    text-decoration: none;
+    color: #000;
+}
+.logo{
+    width: 120px;
+}
+.Contact{
+    padding: 0px 20px 0px 500px;
+}
+button{
+    height: 40px;
+    width: 100px;
+    color: #ffff;
+    background-color: #5a0abd;
+    border: none;
+    border-radius: 8px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+    cursor: pointer;
+}
+.menuNav{
+   padding-top: 15px;
+}
+.heroSection{
+    display: flex;
+    margin: 0px 20px 0px 30px;
+}
+.mainSection{
+    width: 50%;
+    font-family: 'lato', sans-serif;
+}
+h1{
+    font-size: 50px;
+    color: #2e1157;
+    padding: 100px 0px 20px 0px;
+}
+p{
+    font-size: 15px;
+    color:rgb(133, 137, 140);
+    font-weight: bold;
+    margin-bottom: 60px;
+}
+span{
+    background-color: #ffff;
+    color: #5e07d9;
+}
+.bodyImage{
+    height: 460px
+}
+.o{
+    width: 150px;
+}
